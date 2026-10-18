@@ -1,0 +1,231 @@
+CODINGRECORD — FULL OVERVIEW / NO JAVASCRIPT REQUIRED
+
+Audit the evidence behind a claim before a human coder releases it.
+A read-only audit concept. The coder keeps the decision.
+
+CONCEPT PREVIEW / DEMO — SYNTHETIC DATA
+
+01 Pre-bill anomaly sampling/prioritization
+Bring potential documentation and code mismatches into a bounded review queue. Test whether prioritization improves the use of coder attention against the current audit baseline.
+Input: Synthetic claim, existing proposed code and documented sampling scope.
+Output: A prioritized exception with source, owner and a reason to review—not a coding determination.
+Boundary: Sampling can miss exceptions. Evaluate a sample of unflagged records as well as flagged records.
+
+02 Code-to-note evidence map for human coders
+Put the proposed code beside its source excerpt, dated rule context and assigned reviewer. Make incomplete or conflicting documentation visible before a human disposition.
+Input: One specialty or claim type, a synthetic note and fictional code placeholders.
+Output: A read-only evidence map, an explicit uncertainty state and a human review trail.
+Boundary: A link is provenance, not proof. Missing context opens review or abstention; it never creates a code correction.
+
+03 NCCI/MUE version-aware edit checker
+Compare an encounter against a specified source version and effective date. Keep the historical rule context separate from a comparison using current edits.
+Input: Licensed code/rule sources, setting, service date and source/version scope—requirements for a future pilot.
+Output: A source-linked edit exception with version, effective date and reviewer.
+Boundary: Public source coverage is incomplete. Payer variation and missing historical context can require abstention.
+
+04 Denial root-cause clustering and appeals evidence drafts
+Group similar denial-review themes and assemble source-linked evidence drafts for a qualified reviewer. Test this separately from the initial evidence-map pilot.
+Input: An authorized retrospective denial cohort and permitted supporting documentation.
+Output: Illustrative clusters and unsent draft evidence for human review.
+Boundary: No appeal is sent, no payer is contacted and no reimbursement outcome is promised.
+
+05 Coder QA/training trend reports
+Summarize review dispositions and recurring documentation questions, with their denominators and source versions intact.
+Input: Attributed, human-reviewed exceptions and agreed trend categories.
+Output: A training discussion with traceable examples—not an employee performance determination.
+Boundary: Synthetic counts demonstrate the interface only. They are not evidence of quality, adoption or efficacy.
+
+QUESTIONS
+
+Is CodingRecord an operating product?
+No. This is a research-stage concept and a working website preview. The product screens use synthetic records only. Demand, efficacy, adoption and production readiness have not been established.
+
+Does it code or submit claims automatically?
+No. The proposed starting point is a read-only evidence-to-code map for one specialty and pre-bill edit exceptions. The coder retains final code and submission authority.
+
+What happens when evidence is missing?
+The record remains unresolved or is marked abstained by the human reviewer. A missing source is not replaced by an assumed rule. There is no automatic correction or release.
+
+Which rules and codes are in the demo?
+Only clearly fictional placeholders such as CODE-A and DEMO-RULE vA/vB. No real CPT or ICD code content is included. The replay illustrates an interface, not validated coding behavior.
+
+Can I connect an EHR or upload records?
+No. There are no live integrations, uploads or external writes. Integrations are discovery questions for a future governed pilot. Do not enter patient information or clinical details.
+
+What is the pricing?
+Pricing is a hypothetical test, not an active offer. The proposed model is per specialty/site plus scoped setup, with a volume-based alternative to explore. Scope, rights, owner, term and review gates must be agreed before a paid shadow audit.
+
+What would make a pilot ready?
+Eight coding/compliance interviews, confirmed licensed sources, a blinded audit agreement, one paid shadow-audit sponsor and signed data-access/security and human oversight approvals. Precision, review-cost and coder-acceptance thresholds must be agreed with the sponsor.
+
+What happens after I prepare an inquiry?
+This preview creates a downloadable draft on your device. It does not send an inquiry or book a meeting. A future live flow would invite the relevant operations role to a one-specialty shadow-audit design session.
+
+SOURCES
+
+CMS · Medicare NCCI PTP edits
+https://www.cms.gov/medicare/coding-billing/national-correct-coding-initiative-ncci-edits/medicare-ncci-procedure-procedure-ptp-edits
+Formal edit source; not evidence of CodingRecord performance.
+
+CMS · Medically unlikely edits
+https://www.cms.gov/medicare/coding-billing/national-correct-coding-initiative-ncci-edits/medicare-ncci-medically-unlikely-edits-mues
+Source scope and public-data limitations must be checked.
+
+CMS · NCCI FAQ library
+https://www.cms.gov/medicare/coding-billing/national-correct-coding-initiative-ncci-edits/medicare-ncci-faq-library
+Interpretation, scope and program context.
+
+AMA · CPT licensing FAQ
+https://www.ama-assn.org/practice-management/cpt/cpt-licensing-frequently-asked-questions-faqs
+Rights must be confirmed before any use of licensed content.
+
+CDC/NCHS · ICD-10-CM files
+https://www.cdc.gov/nchs/icd/icd-10-cm/files.html
+Code-set release and effective-date resources.
+
+Fathom · Services
+https://www.fathomhealth.com/services
+Vendor positioning: automation and audit offerings.
+
+Nym · Engine
+https://nym.health/autonomous-medical-coding/nym-engine/
+Vendor positioning: autonomous coding and auditability.
+
+CMS · Medicaid NCCI FAQ
+https://www.cms.gov/medicare/coding-billing/ncci-medicaid/medicaid-ncci-faq-library
+Medicaid scope differs from Medicare.
+
+AHIMA · Events
+https://www.ahima.org/events
+Potential research channel; no partnership implied.
+
+HFMA · Events
+https://www.hfma.org/education-events/events/
+Potential buyer-research channel; no endorsement.
+
+NAHRI · Membership
+https://nahri.org/membership
+Potential revenue-integrity interview audience.
+
+HHS · De-identification guidance
+https://www.hhs.gov/hipaa/for-professionals/special-topics/de-identification/index.html
+Future handling requirements need separate assessment.
+
+CODINGRECORD — CONCEPT 25 VALIDATION HANDOFF
+Research-stage Medical Coding Auditor. CodingRecord is a provisional name.
+
+THESIS AND CAVEATS
+An evidence-to-code map may help a human coder inspect pre-bill exceptions. No demand,
+revenue, adoption, efficacy, accepted price, live integration or operating service is
+established. Rules are sources, not evidence of vendor revenue uplift. This is not
+an autonomous coding system. Coder retains final code and submission authority.
+
+BUYER AND FIRST CHANNEL
+Revenue-integrity director or coding compliance lead at a health system or RCM provider.
+Coders are users. Initial interviews through HIM/revenue-integrity associations and RCM
+consultants; offer a one-specialty shadow-audit design session. No partnership implied.
+
+FIVE SOURCE OFFERS (PRESERVE ORDER)
+1. Pre-bill anomaly sampling/prioritization
+2. Code-to-note evidence map for human coders
+3. NCCI/MUE version-aware edit checker
+4. Denial root-cause clustering and appeals evidence drafts
+5. Coder QA/training trend reports
+Select one initial module. The starting wedge is the read-only evidence map.
+
+THREE FEATURED SYNTHETIC CASES
+DEMO-CR-001: clean handoff; Reviewed; Coder A; source present in fixture.
+DEMO-CR-002: ambiguous exception; Pending; Coder B; conflicting/incomplete references.
+DEMO-CR-003: blocked case; Abstained; QA Lead; source version unavailable.
+These sit inside a ten-record synthetic queue with pending, reviewed, unresolved,
+rejected and abstained states. All names are roles, identifiers are fictional and
+placeholders are non-billable. Dates and source versions are explicit. A reviewed state
+means a fictional human event, not coding validity, billability or compliance.
+
+SCREENSHOT STORY
+Capture the queue, opened record, source pane, code placeholder, dated fixture,
+insufficient-evidence state, reviewer and manual actions. Include DEMO / SYNTHETIC DATA
+and CONCEPT PREVIEW, fictional role and date. Capture 1440px desktop and 390px mobile.
+No portal branding, real patient/provider identifier or validated decision.
+
+VALIDATION SEQUENCE
+Interview buyer/operator/oversight separately. Record the incumbent and observed baseline.
+Show synthetic evidence review and test willingness to pay at a clearly hypothetical model.
+Obtain bounded rights and a blinded retrospective replay of historical claims against
+human-audited outcomes using licensed edits. Agree endpoint, thresholds and a stop rule.
+Freeze original outputs. Keep historical effective rules separate from current comparisons.
+Inspect unflagged samples. Report denominators, missing context, selection bias and uncertainty.
+
+METRIC AND GATES
+Primary: coder-accepted true-positive exceptions per 100 reviewed claims versus current audit.
+Guardrails: false-positive minutes and overcoding flags. Also measure adjudicated precision,
+coder acceptance/rejection reasons, unresolved/abstained proportion and reviewer disagreement.
+Do not invent numeric thresholds. Agree them with the sponsor and budget/oversight owners.
+Readiness: 8 coding/compliance interviews, licensed source confirmation, blinded agreement,
+1 paid shadow-audit sponsor, signed data-access/security and human oversight approvals.
+Stop if source/code/documentation rights fail or false-positive review cost exceeds value.
+
+COMMERCIAL AND EXPANSION HYPOTHESES
+Per specialty/site plus setup; test volume alternative. Hypothetical, not active pricing.
+Expand across sites, payer-specific denials or CDI only after prospective review supports
+rules maintenance and value. Contract potential depends on claim mix, incumbent stack,
+audit cost and repeatable onboarding. A revenue thesis is an unvalidated account-price
+and retained-account hypothesis. No invented TAM or total-healthcare-spend proxy.
+
+INTERVIEWS
+Buyer: which queue matters; incumbent benefit; compliance versus net revenue; budget owner;
+what would justify a paid shadow audit; response to a clearly hypothetical price model.
+Coder: process without records; source/rule search; abstention/rejection; false-positive time;
+what evidence changes the decision; what stays under human control.
+Oversight: permissions; licenses; gold labels; payer/version limits; liability; stop authority;
+retrospective and prospective approval requirements.
+
+ACQUISITION AND ADS — PROPOSED ONLY
+LinkedIn: concise workflow teardown, official source link, scoped process audit invitation.
+Log role, institution type and reply reason. No outreach performed by the preview.
+A: documentation/code mismatch — what should the reviewer see next?
+B: current manual audit — how does the team trace an exception today?
+CTA: sample audit worksheet / one-specialty shadow-audit design session.
+Both: Concept DEMO, not operating product, hypothetical pricing. Same geography, agreed
+spend cap, qualified-role tracking. No patient lookalikes or efficacy/revenue guarantees.
+Stop ads on misleading interpretation. Clicks alone are not validation.
+
+INQUIRY AND ANALYTICS — FUTURE LIVE IMPLEMENTATION
+Minimum: role, organization, work email, site/region, one workflow-fit question.
+No patient information, clinical details or uploads. Record consent timestamp, notice
+version, source/UTM, CTA, qualified status and deletion path after approved integration.
+Events: chapter viewed, demo case, version inspected, module interest, CTA, form start,
+real successful inquiry, qualified role and paid sponsor. No telemetry is configured here.
+The current form prepares an unsent local draft only; it never claims a received inquiry.
+
+PARENT TRACKING PROPOSAL — NO NOTION MUTATION
+concept_number=25; working_title=Medical Coding Auditor; proposed_brand=CodingRecord;
+buyer_role; operator_role; sponsor; interview_date; incumbent; baseline_source;
+data_rights_status; safety/compliance_owner; offer_of_interest;
+hypothetical_test_price_response; demo_objection; retrospective_cohort_status;
+pilot_budget_owner; pilot_commitment; primary_metric; stop_rule; next_action;
+evidence_url; screenshot_verified_by_parent.
+Parent owns name/domain/IP clearance, final screenshot verification and publication decisions.
+
+MVP BOUNDARY
+Synthetic read-only preview only; source trail, review queue, uncertainty and manual decisions.
+No real CPT/ICD descriptors, PHI, diagnoses/treatment, live integrations, outbound messages,
+patient contact, external writes or automated determinations. Source license, documentation
+context, payer variation, changes, liability and overcoding incentives require oversight.
+No dollar amounts, recovery claims, payment guarantees, fake testimonials or certifications.
+
+SOURCES
+See the website Research & Sources page for official CMS, AMA, CDC, HHS and vendor URLs.
+These sources establish rule/market context, not differentiated demand or product efficacy.
+The earlier healthcare.md attachment was not available; its unprovided contents are not
+represented as verified. The user's supplied brief, prior IA, storyboard and approved brand
+kit govern this implementation.
+
+IA COMPLETION UPDATE
+The ten-record initial inventory is 4 Pending, 2 Abstained, 3 Reviewed and 1 Rejected.
+DEMO-CR-007 is the rejected exception; DEMO-CR-009 is permission-blocked.
+Full provenance includes specialty/claim type, service date, note version/location,
+program/setting, source reference, effective interval, retrieval status, licensing,
+permission and assigned next action. Human events preserve old/new state and reason.
+All 21 saved IA references are available on Research. Sign-in is a local UI preview;
+no credentials are collected, no authentication request is sent, and no account exists.

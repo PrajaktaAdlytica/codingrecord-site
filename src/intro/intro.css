@@ -1,0 +1,14 @@
+.intro-overlay {position:fixed;inset:0;z-index:1000;background:#0c191c;opacity:1;transition:opacity 520ms cubic-bezier(.2,.7,.2,1);isolation:isolate;}
+.intro-overlay.is-leaving {opacity:0;pointer-events:none;}
+.intro-film {position:absolute;inset:0;pointer-events:none;}
+.intro-loading {height:100%;display:grid;place-items:center;background:linear-gradient(#0c191c55,#0c191c22),url('/assets/architecture.webp') center/cover;color:#e5efde;font:clamp(28px,5vw,70px) Marcellus,serif;}
+.intro-error {position:absolute;inset:0;display:grid;place-items:center;text-align:center;padding:15vw;color:#e5efde;background:#0c191c;font-size:20px;}
+.intro-controls {position:absolute;z-index:2;top:28px;right:32px;display:flex;align-items:center;gap:12px;color:#e0ead8;}
+.intro-controls button {min-height:44px;padding:10px 19px;border:1px solid #c8d8bc66;border-radius:30px;background:#102022bb;color:#e7efdf;backdrop-filter:blur(12px);font:12px Inter,sans-serif;cursor:pointer;transition:background 180ms,border-color 180ms;}
+.intro-controls button:hover {background:#324e43;border-color:#d0e3bf;}
+.intro-controls button:focus-visible {outline:2px solid #e8d39c;outline-offset:4px;}
+.intro-counter {font:10px 'IBM Plex Mono',monospace;letter-spacing:.08em;margin-right:10px;}
+.site-header.intro-hidden {opacity:0;visibility:hidden;translate:0 -12px;pointer-events:none;}
+.site-header.intro-arriving {opacity:1;visibility:visible;translate:0 0;transition:opacity 700ms ease 180ms,translate 850ms cubic-bezier(.2,.7,.2,1) 180ms;}
+@media(max-width:700px){.intro-controls{top:16px;right:16px;gap:8px;}.intro-controls button{font-size:11px;padding:9px 14px;}.intro-counter{display:none;}}
+@media(prefers-reduced-motion:reduce){.intro-overlay,.site-header.intro-arriving{transition:none;}}

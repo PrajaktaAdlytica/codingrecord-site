@@ -1,0 +1,258 @@
+{
+  "desktop": [
+    {
+      "brokenImages": [],
+      "route": "#/evaluation",
+      "title": "Agree on the test.Then test the idea.",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "route": "#/research",
+      "title": "Strong rule sources.Open buying questions.",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "route": "#/about",
+      "title": "A clearer record.A human decision.",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "route": "#/signin",
+      "title": "Return tothe record.",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "route": "#/access",
+      "title": "No account.Just the evidence.",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "route": "#/pilot",
+      "title": "One specialty.One useful conversation.",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "route": "#/demo",
+      "title": "The evidence desk.",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "route": "#/product",
+      "title": "Every code should havea route back to its note.",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "route": "#/product/prioritization",
+      "title": "Find the next record to review.",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "route": "#/product/evidence-map",
+      "title": "Follow the claim back to the note.",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "route": "#/product/edit-checker",
+      "title": "Keep the date in the decision.",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "route": "#/product/denial-patterns",
+      "title": "Understand the pattern behind the queue.",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "route": "#/product/coder-qa",
+      "title": "Turn review into a learning loop.",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "route": "#/solutions",
+      "title": "Different responsibilities.One traceable handoff.",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "route": "#/governance",
+      "title": "Accountability ispart of the interface.",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "route": "#/privacy",
+      "title": "Privacy notice",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "route": "#/terms",
+      "title": "Terms of this preview",
+      "viewport": 1440,
+      "width": 1440
+    },
+    {
+      "brokenImages": [],
+      "route": "#/accessibility",
+      "title": "Accessibility & motion",
+      "viewport": 1440,
+      "width": 1440
+    }
+  ],
+  "mobile": [
+    {
+      "brokenImages": [],
+      "route": "#/evaluation",
+      "title": "Agree on the test.Then test the idea.",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "route": "#/research",
+      "title": "Strong rule sources.Open buying questions.",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "route": "#/about",
+      "title": "A clearer record.A human decision.",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "route": "#/signin",
+      "title": "Return tothe record.",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "route": "#/access",
+      "title": "No account.Just the evidence.",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "route": "#/pilot",
+      "title": "One specialty.One useful conversation.",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "route": "#/demo",
+      "title": "The evidence desk.",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "route": "#/product",
+      "title": "Every code should havea route back to its note.",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "route": "#/product/prioritization",
+      "title": "Find the next record to review.",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "route": "#/product/evidence-map",
+      "title": "Follow the claim back to the note.",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "route": "#/product/edit-checker",
+      "title": "Keep the date in the decision.",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "route": "#/product/denial-patterns",
+      "title": "Understand the pattern behind the queue.",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "route": "#/product/coder-qa",
+      "title": "Turn review into a learning loop.",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "route": "#/solutions",
+      "title": "Different responsibilities.One traceable handoff.",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "route": "#/governance",
+      "title": "Accountability ispart of the interface.",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "route": "#/privacy",
+      "title": "Privacy notice",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "route": "#/terms",
+      "title": "Terms of this preview",
+      "viewport": 390,
+      "width": 390
+    },
+    {
+      "brokenImages": [],
+      "route": "#/accessibility",
+      "title": "Accessibility & motion",
+      "viewport": 390,
+      "width": 390
+    }
+  ]
+}
