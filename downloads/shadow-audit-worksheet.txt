@@ -1,0 +1,59 @@
+CODINGRECORD — ONE-SPECIALTY SHADOW-AUDIT DESIGN WORKSHEET
+CONCEPT PREVIEW / DO NOT INCLUDE PATIENT OR CLAIM RECORDS
+
+1. Operating question
+Buyer role:
+Coder/operator role:
+Oversight owner:
+Institution type / region:
+One specialty or claim type:
+Where does the review queue stall?
+Incumbent workflow / tool:
+Compliance QA versus net-revenue priority:
+
+2. Proposed boundary
+Read-only evidence-to-code map and pre-bill exceptions.
+Human coder retains final code and submission authority.
+No live integration, clinical recommendation or automated determination.
+Input contract / scope / exclusions:
+Bounded export authorization:
+Rule/code license and documentation rights:
+Named reviewer and escalation owner:
+
+3. Baseline and replay
+Historical cohort window / sampling method:
+Claim and exception denominators:
+Baseline source and current audit process:
+Human-audited gold labels / independent adjudication:
+Blinding and discrepancy resolution:
+Historical effective versions / separate current-edit comparison:
+Unflagged sample for missed exceptions:
+Missing context, unresolved cases and uncertainty reporting:
+
+4. Evaluation
+Primary: coder-accepted true-positive exceptions per 100 reviewed claims versus current audit.
+Precision threshold (agree with sponsor):
+False-positive reviewer minutes threshold:
+Coder-acceptance threshold:
+Overcoding guardrail / escalation:
+Total and per-100-claim cost reporting:
+Decision time window / endpoint:
+
+5. Prerequisites — none claimed achieved
+8 coding/compliance interviews.
+Licensed edit-source confirmation.
+Blinded audit agreement.
+1 paid shadow-audit sponsor.
+Signed data-access/security and human oversight approvals.
+Written scope, budget owner, review gate and stop conditions.
+
+6. Stop / reposition
+Stop if rule/code licenses or documentation rights fail, or if false-positive review cost
+exceeds value in shadow audit. Pause on misleading interpretation, overcoding incentives
+or unapproved access. A paid commitment is not evidence of efficacy.
+
+Pricing is hypothetical, not an active offer. Discuss a per-specialty/site model plus
+setup and a volume-based alternative. No amounts, payment guarantees or ROI claims.
+
+This worksheet is for process design. Do not attach patient data, real claim IDs,
+clinical details, coding records or copyrighted source excerpts.
