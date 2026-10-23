@@ -290,6 +290,11 @@ function Footer() {
               <br />
               The coder keeps the decision.
             </p>
+            <address className="company-address">
+              42/208C Hoang Hoa Tham<br />
+              Ward 7, Binh Thanh District<br />
+              Ho Chi Minh City 790762, Vietnam
+            </address>
             <Badges />
           </div>
           <div>
@@ -757,6 +762,7 @@ function Home({
       <section className="hero" id="top">
         <div className="hero-sticky">
           <div className="hero-copy">
+            <p className="funding-announcement">Funding announcement coming soon · VC name and amount to be announced</p>
             <h1>
               Audit the evidence
               <br />
@@ -1673,6 +1679,17 @@ function About() {
                 integrations, production service or accepted pricing have been
                 demonstrated.
               </p>
+              <div className="company-details">
+                <h3>Company details</h3>
+                <address>
+                  42/208C Hoang Hoa Tham<br />
+                  Ward 7<br />
+                  Binh Thanh District<br />
+                  Ho Chi Minh City<br />
+                  790762<br />
+                  Vietnam
+                </address>
+              </div>
             </div>
           </div>
           <div className="callout">

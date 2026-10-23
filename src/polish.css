@@ -77,3 +77,30 @@ html[data-motion="full"] [data-reveal] {
 @media (prefers-reduced-motion: reduce) {
   html[data-motion="full"] [data-reveal] { transition: none; }
 }
+.hero-copy > .funding-announcement {
+  width: fit-content;
+  max-width: min(90vw, 620px);
+  margin: 0 auto 22px;
+  padding: 9px 16px;
+  border: 1px solid #c1cec688;
+  border-radius: 999px;
+  color: #e5efde;
+  font: 11px/1.45 "IBM Plex Mono", monospace;
+  letter-spacing: .02em;
+}
+.company-address,
+.company-details address {
+  font-style: normal;
+  line-height: 1.7;
+}
+.footer-top .company-address {
+  margin: 0 0 22px;
+  color: #c1cdc5;
+  font-size: 12px;
+}
+.company-details {
+  margin-top: 32px;
+}
+.company-details h3 {
+  margin-bottom: 12px;
+}
